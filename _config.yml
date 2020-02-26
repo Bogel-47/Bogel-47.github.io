@@ -111,7 +111,7 @@ author:
   name             : "Muhammad Hargi Muttaqin"
   avatar           : /82114.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Orang yang sederhana dan suka bercanda. Pecinta Motor klasik terlebih c70"
-  location         : "Bandung"
+  location         : "Bandung,Cimahi,Cimahi Tengah"
   email            :
   links:
     - label: "Email"
@@ -128,10 +128,10 @@ author:
       url: "https://www.facebook.com/hargi.mutaqin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Bogel-47"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/hargi_77/?hl=id"
 
 # Site Footer
 footer:
