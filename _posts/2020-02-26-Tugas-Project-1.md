@@ -11,9 +11,10 @@
 agar suatu pekerjaan dapat diselesaikan dengan cepat dan selalu mencoba untuk
 mengerjakan tugas menggunakan git agar pekerjaan dapat dilakukan dengan cepat
 tanpa harus menggunakan flashdisk ataupun hardisk sehingga meminimalisir adanya
-virus, banyak sekali
+virus, banyak sekali ternyata cara membuat program bersama sama yang belum saya 
+ketahui.
 <h1>Unek-Unek</h1>
-	Selama pelajaran project 1 saya merasa sangat capek akan banyaknya tugas padahari pertama sudah disuruh untuk melakukan tes mengetik, belum lagi tiap pertemuan terdapat task yang cukup banyak, tapi semua itu dilakukan agar kita menjadi seorang programer yang terlatih dan cepat dalam melaksanakan tugas.
+	Selama pelajaran project 1 saya merasa sangat capek akan banyaknya tugas pada hari pertama sudah disuruh untuk melakukan tes mengetik, belum lagi tiap pertemuan terdapat task yang cukup banyak, tapi semua itu dilakukan agar kita menjadi seorang programer yang terlatih dan cepat dalam melaksanakan tugas.
 <h1>Tips & Trik</h1>
 	Tips dan trik yang dilakukan untuk melewati mata kuliah ini
 	adalah jangan lupa untuk mendengarkan lagu yang disukai dan
