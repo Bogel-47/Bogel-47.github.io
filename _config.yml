@@ -110,13 +110,13 @@ analytics:
 author:
   name             : "Muhammad Hargi Muttaqin"
   avatar           : /82114.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Orang yang sederhana dan suka bercanda."
+  bio              : "Orang yang sederhana dan suka bercanda. Pecinta Motor klasik terlebih c70"
   location         : "Bandung"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: hargimuhammad@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +125,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/hargi.mutaqin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
